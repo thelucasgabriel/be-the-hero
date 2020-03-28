@@ -7,8 +7,22 @@
 </h4>
 
 <p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/apsampaio/semana-omnistack-11">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/apsampaio/semana-omnistack-11">
+  
+  <a href="https://github.com/apsampaio/semana-omnistack-11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/apsampaio/semana-omnistack-11">
+  </a>
+
+  <a href="https://github.com/apsampaio/semana-omnistack-11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/apsampaio/semana-omnistack-11">
+  </a>
+</p>
+
+<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -32,5 +46,7 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 
 <p align="center">
-  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="50%" height="50%">
+  <img alt="Frontend" src="frontend/src/assets/heroes.png" width="596px" height="574px">
 </p>
+
+--
