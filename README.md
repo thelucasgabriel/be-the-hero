@@ -1,19 +1,24 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="utf-8">
-    </head>
-    <body>
-        <div id="header" align="center">
-        <header>
-            <img src="frontend/src/assets/logo.svg" >
-            <h1>Projeto Be-The-Hero</h1>
-        </div>
-        </header>
-        <hr>
-        <section>
-            
-        </section>
+<img src="frontend/src/assets/logo.svg" >
 
-    </body>
-</html>
+# Semana Omnistack 11.0
+
+<img src="frontend/src/assets/prev.png">
+
+---
+
+### :computer: Sobre o Projeto 
+O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
+
+### :gear: Tecnologias 
+
+* [Node JS](https://nodejs.org/)
+* [React JS](https://reactjs.org/)
+* [React Native](https://reactnative.dev/)
+* [Expo](https://expo.io/)
+
+### :hammer_and_wrench: Ferramentas
+
+
+### :mag_right: Como contribuir
+
+````
