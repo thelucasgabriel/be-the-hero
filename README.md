@@ -4,6 +4,9 @@
 
 <img src="frontend/src/assets/prev.png">
 
+
+---
+
 ---
 
 ### :computer: Sobre o Projeto 
@@ -18,7 +21,32 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 
 ### :hammer_and_wrench: Ferramentas
 
+* [Visual Studio Code](https://code.visualstudio.com/)
 
-### :mag_right: Como contribuir
+### 	:cd: Como executar
 
-````
+#### Clonando o Projeto
+
+```
+git clone https://github.com/thelucasgabriel/be-the-hero.git
+cd be-the-hero
+npm install
+```
+#### Iniciando o Back-End
+```
+cd backend
+npm start
+```
+
+#### Iniciando o Front-End
+```
+cd frontend
+npm start
+```
+
+***
+
+
+Autor: [Lucas Gabriel](https://github.com/thelucasgabriel/)
+
+[<img src="http://img.shields.io/badge/GitHub-thelucasgabriel-lightgrey?logo=github">](https://github.com/thelucasgabriel/)
