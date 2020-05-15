@@ -16,6 +16,13 @@ O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tor
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
 
+### :pencil: Etapas
+
+- [x] Front-End
+- [x] Back-End
+- [ ] Aplicativo
+
+
 ### :hammer_and_wrench: Ferramentas
 
 
