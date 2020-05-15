@@ -14,14 +14,14 @@
 
 ---
 ## Índice
- * [1. Sobre o Projeto](#computer-sobre-o-projeto)
- * [2. Tecnologias](#2-technologies)
- * [3. Etapas](#pencil-etapas)
- * [4. Ferramentas](#hammer_and_wrench-ferramentas)
- * [5. Como executar](#cd-como-executar)
-   * [5.1. Clonando o projeto](#clonando-o-projeto)
-   * [5.2. Iniciando o Back-End](#iniciando-o-back-end)
-   * [5.3. Iniciando o Front-End](#iniciando-o-front-end)
+ * [1. Sobre o Projeto](#computer-1-sobre-o-projeto)
+ * [2. Tecnologias](#gear-2-tecnologias)
+ * [3. Etapas](#pencil-3-etapas)
+ * [4. Ferramentas](#hammer_and_wrench-4-ferramentas)
+ * [5. Como executar](#cd-5-como-executar)
+   * [5.1. Clonando o projeto](#51-clonando-o-projeto)
+   * [5.2. Iniciando o Back-End](#52-iniciando-o-back-end)
+   * [5.3. Iniciando o Front-End](#53-iniciando-o-front-end)
 
 ### :computer: 1. Sobre o Projeto 
 
