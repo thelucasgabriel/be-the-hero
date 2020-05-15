@@ -13,45 +13,54 @@
 ![GitHub](https://img.shields.io/github/license/thelucasgabriel/be-the-hero)
 
 ---
+## Índice
+ * [1. Sobre o Projeto](#computer-sobre-o-projeto)
+ * [2. Tecnologias](#2-technologies)
+ * [3. Etapas](#pencil-etapas)
+ * [4. Ferramentas](#hammer_and_wrench-ferramentas)
+ * [5. Como executar](#cd-como-executar)
+   * [5.1. Clonando o projeto](#clonando-o-projeto)
+   * [5.2. Iniciando o Back-End](#iniciando-o-back-end)
+   * [5.3. Iniciando o Front-End](#iniciando-o-front-end)
 
-### :computer: Sobre o Projeto 
+### :computer: 1. Sobre o Projeto 
 
 O Be The Hero é um projeto que facilita a vida dos heróis em salvar o dia, tornando possível o usuário visualizar casos publicados por ONGs e entrar em contato com elas via E-mail ou WhatsApp, ou no caso de uma ONG, se cadastrar e encontrar um herói.
 
-### :gear: Tecnologias 
+### :gear: 2. Tecnologias 
 
 * [Node JS](https://nodejs.org/)
 * [React JS](https://reactjs.org/)
 * [React Native](https://reactnative.dev/)
 * [Expo](https://expo.io/)
 
-### :pencil: Etapas
+### :pencil: 3. Etapas
 
 - [x] Front-End
 - [x] Back-End
 - [ ] Aplicativo
 
 
-### :hammer_and_wrench: Ferramentas
+### :hammer_and_wrench: 4. Ferramentas
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-### 	:cd: Como executar
+### 	:cd: 5. Como executar
 
-#### Clonando o Projeto
+#### 5.1 Clonando o Projeto
 
 ```
 git clone https://github.com/thelucasgabriel/be-the-hero.git
 cd be-the-hero
 npm install
 ```
-#### Iniciando o Back-End
+#### 5.2 Iniciando o Back-End
 ```
 cd backend
 npm start
 ```
 
-#### Iniciando o Front-End
+#### 5.3 Iniciando o Front-End
 ```
 cd frontend
 npm start
