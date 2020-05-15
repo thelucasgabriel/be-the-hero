@@ -5,11 +5,13 @@
 <img src="frontend/src/assets/prev.png">
 
 ---
+
 ![GitHub language count](https://img.shields.io/github/languages/count/thelucasgabriel/be-the-hero) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/thelucasgabriel/be-the-hero)
 ![GitHub last commit](https://img.shields.io/github/last-commit/thelucasgabriel/be-the-hero)
 ![GitHub issues](https://img.shields.io/github/issues-raw/thelucasgabriel/be-the-hero)
 ![GitHub](https://img.shields.io/github/license/thelucasgabriel/be-the-hero)
+
 ---
 
 ### :computer: Sobre o Projeto 
